@@ -17,4 +17,4 @@ You can see my [Resume](https://github.com/AjiteshGupta/Resume_Ajitesh) here.
 
 ### Contact
 
-Wanna Know More? Check out my [github profile](https://help.github.com/AjiteshGupta) or contact me on [facebook](https://www.facebook.com/ajitesh.gupta13)
+Wanna Know More? Check out my [github profile](https://github.com/AjiteshGupta) or contact me on [facebook](https://www.facebook.com/ajitesh.gupta13)
