@@ -6,26 +6,13 @@ I hvae a keen intrest in Web Development and Graphics related work. I have sound
 Currently i am learning Django for backend and Angular JS for frontend effects.
 
 
+
+
 ### Resume
 
 You can see my [Resume](https://github.com/AjiteshGupta/Resume_Ajitesh) here. 
 
-`markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)`
 
 
 ### Contact
