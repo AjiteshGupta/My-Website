@@ -10,7 +10,7 @@ Currently I am practicing Javascript for frontend work, and learning Django for 
 
 ### Resume
 
-You can see my [Resume](https://github.com/AjiteshGupta/Resume_Ajitesh) here. 
+You can see my [Resume](https://ajiteshgupta.github.io/resume.html) here. 
 
 
 
